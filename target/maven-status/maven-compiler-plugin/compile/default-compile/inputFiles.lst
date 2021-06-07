@@ -1,0 +1,12 @@
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/services/DiffingService.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/model/Diff.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/model/Person.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/PeragoApplication.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/services/DiffRenderer.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/resources/DiffingController.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/model/Pet.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/services/DiffEngine.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/services/DiffRendererService.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/services/impl/DiffingServiceImpl.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/services/impl/DiffEngineService.java
+/home/fofe/Documents/perago-project/src/main/java/za/co/perago/exceptions/DiffException.java

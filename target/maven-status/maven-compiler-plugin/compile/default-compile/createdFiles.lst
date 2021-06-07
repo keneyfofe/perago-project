@@ -1,0 +1,12 @@
+za/co/perago/model/Diff.class
+za/co/perago/services/DiffRendererService.class
+za/co/perago/services/DiffRenderer.class
+za/co/perago/model/Pet.class
+za/co/perago/exceptions/DiffException.class
+za/co/perago/model/Person.class
+za/co/perago/services/impl/DiffingServiceImpl.class
+za/co/perago/services/impl/DiffEngineService.class
+za/co/perago/PeragoApplication.class
+za/co/perago/services/DiffEngine.class
+za/co/perago/resources/DiffingController.class
+za/co/perago/services/DiffingService.class
